@@ -256,6 +256,14 @@ The pipeline for predicting on the test set:
 3. Make income predictions using our best model that has been trained on our training data. 
 
 
+The metrics on our test set are comparable to what we saw during training. 
+
+|Precision|Recall|F1-Score|AUC|
+|:--------|------|--------|---|
+|0.76|0.47|0.58|0.95|
+
+
+
 Below are the confusion matrix, ROC, and top 10 feature importances. 
 
 <table>
@@ -270,6 +278,7 @@ Below are the confusion matrix, ROC, and top 10 feature importances.
     </table>
 
 <img src='images/feature_import_best.png' height='300px'>
+
 
 ## Conclusion
 
