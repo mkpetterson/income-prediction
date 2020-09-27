@@ -177,10 +177,10 @@ The 10 largest and 10 smallest (most negative) coefficients are shown below. As 
 <table>
     <tr>
         <td>
-            <img src='images/lr_roc.png' height='400px'>
+            <img src='images/lr_roc.png' height='300px'>
         </td>
         <td>
-            <img src='images/feature_import_lr.png' height='400px'>
+            <img src='images/feature_import_lr.png' height='300px'>
         </td>
     </tr>
     </table>
