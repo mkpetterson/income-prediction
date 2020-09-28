@@ -19,9 +19,9 @@ Below I walk through some initial EDA, data cleaning and proprocessing, investig
 
 
 ## Exploratory Data Analysis
-General statistics for the data:
-Training set: 199523 
-Testing set: 99762
+General statistics for the data:<br>
+Training set: 199523 <br>
+Testing set: 99762 <br>
 
 Total number of features: 41 (including target)
 
